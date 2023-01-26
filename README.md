@@ -1,4 +1,3 @@
-[![Actions Status](https://github.com/rawleyfowler/Raku-Cpp-Example/actions/workflows/test.yml/badge.svg)](https://github.com/rawleyfowler/Raku-Cpp-Example/actions)
-
-
+# Raku::Cpp::Example
+This repo serves as an example for how to use [Distribution::Builder::Cmake](https://github.com/rawleyfowler/Distribution-Builder-Cmake).
 
