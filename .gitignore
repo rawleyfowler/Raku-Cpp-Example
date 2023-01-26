@@ -1,0 +1,5 @@
+.precomp/
+/Raku-Cpp-Example-*
+build/
+*.so
+cc/build/

@@ -1,0 +1,30 @@
+{
+  "authors": [
+    "Rawley Fowler"
+  ],
+  "build": {
+    "lib": "my-lib",
+    "src-dir": "cc"
+  },
+  "build-depends": [
+  ],
+  "builder": "Distribution::Builder::Cmake",
+  "depends": [
+  ],
+  "description": "An example of how to build and distribute C++ code for FFI within Raku",
+  "license": "Artistic-2.0",
+  "name": "Raku::Cpp::Example",
+  "perl": "6.d",
+  "provides": {
+    "Raku::Cpp::Example": "lib/Raku/Cpp/Example.rakumod"
+  },
+  "resources": [
+    "libraries/my-lib"
+  ],
+  "source-url": "https://github.com/rawleyfowler/Raku-Cpp-Example.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

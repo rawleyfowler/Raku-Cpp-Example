@@ -1,0 +1,8 @@
+use Test;
+use Raku::Cpp::Example;
+
+plan 1;
+
+is ReturnThree, 3, 'Is native call working?';
+
+done-testing;
